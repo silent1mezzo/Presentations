@@ -13,6 +13,7 @@ PyCon Canada - November 10, 2012
 ++++++++++++++++++++++++++++++++
 
 Speaker Deck - https://speakerdeck.com/silent1mezzo/testing-django-with-travis-ci
+
 Youtube - http://www.youtube.com/watch?v=uFRJsbV8W_4
 
 Django Meetup - August 16, 2012
